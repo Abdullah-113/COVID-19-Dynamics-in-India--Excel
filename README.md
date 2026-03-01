@@ -62,7 +62,7 @@ The datasets were cleaned, validated, merged using composite keys, and structure
 ---
 
 ## 💼 Business Impact
-
+---
 * Enabled proactive hospital capacity planning using forecast intervals.
 * Supported targeted resource allocation based on severity ratios.
 * Improved visibility into state-wise outbreak intensity.
