@@ -69,7 +69,8 @@ The datasets were cleaned, validated, merged using composite keys, and structure
 * Provided dynamic risk stratification for regulatory monitoring.
 * Demonstrated how Excel can function as a full-scale analytical engine without external tools.
 
+---
 
-📊 Dashboard Preview
-
+## 📊 Dashboard Preview
+---
  <img width="602" height="304" alt="Picture2" src="https://github.com/user-attachments/assets/7ddcff0c-fbd1-4fcc-8ccb-89db6c0c960d" />
